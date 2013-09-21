@@ -18,7 +18,7 @@
 	// | Lesser General Public License for more details.                      |
 	// +----------------------------------------------------------------------+
 	//
-	// $Id: corban.lib.php 98 2013-01-03 16:04:50Z hayk $
+	// $Id: corban.lib.php 99 2013-09-21 23:39:10Z hayk $
 	//
 
 	/**
@@ -29,11 +29,12 @@
 	 * @author		Softerra <phplib@softerra.com>
 	 * @author		Dmitry Bobeyko <dead.star.fish@gmail.com>
 	 * @author		Hayk Chamyan <hamshen@gmail.com>
-	 * @copyright	(c) 2005-2011 Hayk Chamyan
-	 * @copyright	(c) 2008-2011 Dmitry Bobeyko
-	 * @copyright	(c) 1999-2005 Softerra, LLC
+	 * @copyright	2005-2013 Hayk Chamyan
+	 * @copyright	2008-2013 Dmitry Bobeyko
+	 * @copyright	1999-2005 Softerra, LLC
 	 * @link		http://500plus.org/corban/ [Corban, dear!]
 	 * @version		1.4.7
+	 * @license		GNU Lesser General Public License version 2.1
 	 * @access		public
 	 * @since		PHP 4.3.0
 	 */
