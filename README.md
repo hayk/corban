@@ -13,7 +13,7 @@ Readme in [English](http://code.google.com/p/corban/wiki/ReadMe?wl=en) and [Russ
 
 License
 -------
-GNU Lesser General Public License (LGPL) Version 2.1, see LICENSE for more information.
+GNU Lesser General Public License (LGPL) Version 2.1, see [LICENSE](LICENSE) for more information.
 
 Copyright (c) 1999-2005 Softerra, LLC <br />
 Copyright (c) 2008-2011 Dmitry Bobeyko <br />
