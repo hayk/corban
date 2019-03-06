@@ -9,7 +9,7 @@ Easy to install and use, this library appreciably simplifies the process of debu
 
 Documentation
 -------------
-Readme in [English](http://code.google.com/p/corban/wiki/ReadMe?wl=en) and [Russian](http://code.google.com/p/corban/wiki/ReadMe?wl=ru).
+Readme in [English](README.en.md) and [Russian](README.ru.md).
 
 License
 -------
